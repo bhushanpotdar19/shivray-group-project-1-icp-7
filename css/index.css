@@ -221,3 +221,95 @@ b{
     border: 1px solid black;
     border-radius: 8px;
 }
+
+.large{
+    color: chocolate;
+  background-color: rgb(255, 255, 255);
+    width: 350px;
+    padding-bottom: 5px;
+    padding-left: 10px;
+    height: 20px;
+   
+    border: 1px solid black;
+    border-radius: 8px;
+}
+
+.subtitle:hover{
+    box-shadow: 0px 0px 1px 1px black;
+    font-size: 18px;
+    background-color: lightyellow;
+}
+.big{
+    height: 720px;
+   
+}
+.big_1{
+    height: 500px;
+   
+}
+.big_2{
+    height: 1030px;
+    padding-bottom: 0px;
+}
+.side-img{
+    border:2px solid black;
+    margin-left: 8px;
+    padding-left: -1px;
+   
+}
+.intro{
+    margin-top: -80px;
+   
+    color: chocolate;
+  background-color: rgb(255, 255, 255);
+    width: 90px;
+    height: 20px;
+   padding-left: 10px;
+   padding-right: 10px  ;
+    border: 1px solid black;
+    border-radius: 8px;
+}
+.intro:hover{
+    box-shadow: 0px 0px 1px 1px black;
+    font-size: 18px;
+    background-color: lightyellow;
+}
+.content{
+   
+    
+    margin-top: 0px;
+        margin-right: 23px;
+        margin-left: -50px;
+        padding-left: 25px;
+        flex-wrap: wrap;
+        
+        height: 468px;
+       padding-top: 10px;
+       padding-bottom: 50px;
+       
+        font-size: large;
+        background-color:  rgb(220, 180, 135);
+        flex-wrap: wrap;
+        border:1px solid black;
+        
+    
+    
+    width: 120px;
+
+}
+.index{
+    position: fixed;
+}
+.subheads{
+    background-color: rgb(233, 188, 130);
+    font-size: 20px;
+    border: 1px solid black;
+   
+   border-radius: 5px;
+   color: darkred;
+   
+   text-align: center;
+   
+   
+   
+}
