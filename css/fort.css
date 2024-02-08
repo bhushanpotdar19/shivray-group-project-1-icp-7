@@ -1,19 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Bungee+Shade&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Vast+Shadow&display=swap');
 body {
     text-align:center;
     background-color:white;
     margin: 0;
     padding: 0;
 }
-.fort_icon{
-  height: 100px;
-  padding: 10px;
-  margin:0;
-}
 .fort-background {
   height: 100px;
   background-size: cover;
-  background-position: center top;
+  background-position: center;
   background-repeat: no-repeat;
+  font-family: 'Bungee Shade', sans-serif;
+text-align: left;
+font-size: large;
+color: #c5c6D0;
+
+}
+.fort-headline{
+  font-family: 'Vast Shadow', serif;
+  color: #FFBF00;
 }
       .fort-card{
     display: inline-block;
