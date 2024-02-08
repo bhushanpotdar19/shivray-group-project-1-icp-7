@@ -113,3 +113,111 @@ button{
     justify-self: center;
     border: 1px solid black;
 }
+
+.nav{
+    border: 1px solid black;
+    color: red;
+    flex-wrap: wrap;
+  margin-top: 0;
+  padding-right: 10px;
+  padding-left: 10px;
+  margin-left:30px;
+  padding-top: 0px;
+  /* border: 1px solid black; */
+  color: black;
+  background-color: white;
+  font-size: large;
+  height: 23px;
+  border-radius: 5px ;
+}
+.nav:hover{
+    box-shadow: 0px 0px 1px 1px black;
+    color: red;
+    background-color: lightyellow;
+}
+  
+
+b{
+   display: block;
+}
+.photo{
+    display: flex;
+    margin-left: 70px;
+    margin-top: 200px;
+}
+.sub{
+    flex-wrap: wrap;
+   margin-left:-60px;
+    height: auto;
+    width: 200px;
+}
+.text{
+    margin-right: 0px;
+    width: 1200px;
+    padding: 18px;
+    flex-wrap: wrap;
+    padding-top: 25px;
+    height: 420px;
+   
+   
+    font-size: large;
+   background-color: lightgray;
+    flex-wrap: wrap;
+    
+
+}
+.pic{
+   flex-wrap: wrap;
+    background-color:lightgray;
+    border: 2px solid gray;
+    width: 255px;
+    margin-left: 50px;
+    padding-right: 3    px;
+    height: auto;
+    padding-left: 5px;
+    
+}
+.bold{
+    
+    margin-left: -px;
+    padding-left: 50px;
+    padding-right: 60x;
+    padding-top: 4px;
+    padding-bottom: 5px;
+    background-color: lightsalmon;
+}
+.First_para{
+    padding-top: 20px;
+   
+
+}
+.Second{
+    margin-left:-20px;
+    height: 400px;
+}
+.font{
+    font-size:15px;
+    padding: 10px;
+    margin-left: 9px;
+}
+.subtitle{
+    color: chocolate;
+  background-color: rgb(255, 255, 255);
+    width: 70px;
+    height: 20px;
+   padding-left: 10px;
+   padding-right: 10px  ;
+    border: 1px solid black;
+    border-radius: 8px;
+}
+.subpoint{
+    color: chocolate;
+  background-color: rgb(255, 255, 255);
+    width: 270px;
+    padding-bottom: 5px;
+    padding-left: 10px;
+    height: 20px;
+   
+    border: 1px solid black;
+    border-radius: 8px;
+}
