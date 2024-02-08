@@ -1,0 +1,191 @@
+.navbar{
+    height: 70px; 
+    width: 900px;
+    border: 1px solid width;
+    margin-left: 300px;
+    font-size: 20px;
+    color: white;
+    background-color: red;
+    border-radius: 5px;
+    box-shadow: 2px 2px 0 0 black;
+   
+ }
+ 
+ 
+ .c1{
+     font-size: 50px;
+     margin-left: 30px;
+ }
+ 
+ .word{
+    width: 1000px;
+    border:1px solid rgb(67, 59, 59);
+    font-size: 50px;
+    background-color: red;
+    color: white;
+   margin-top: 30px;
+   border-radius: 20px;
+   margin-left: 650px;
+   padding-left: 50px;
+ }
+ .word:hover{
+    background-color: blue;
+ }
+ 
+ 
+ 
+    .product-card{
+     margin-top: 50px;
+     width: 400px;
+     height: 820px;
+     border: 1px solid black;
+     border-radius: 10px;
+     display: inline-block;
+     border: 1px solid black;
+     padding: 20px;
+     margin: 50px;
+     box-shadow: 5px 5px 0 0px;
+     justify-content: space-evenly;
+     
+    }
+    .product-price{
+     font-size: 30px;
+    }
+    .btn-buy{
+    height: 40px;
+    width: 300px;
+    margin-left: 50px;
+    background-color: blue;
+    color: azure;
+    font-size: 30px;
+    }
+ 
+    .btn-buy:hover{
+       background-color: red;
+       border-radius: 30px;
+    }
+   
+    .btn-buy1:hover{
+       background-color: red;
+       border-radius: 30px;
+    }
+   
+    .btn-buy1{
+       height: 40px;
+       width: 300px;
+       margin-left: 50px;
+       background-color: blue;
+       color: azure;
+       font-size: 30px;
+       margin-top: 50px;
+       }
+       .btn-more{
+          height: 70px;
+          width: 600px;
+          font-size: 50px;
+          color: antiquewhite;
+          background-color:red;
+          border: 1px solid black;
+          border-radius: 20px;
+          margin-left: 800px;
+       }
+       .btn-more:hover{
+          background-color:blue;
+       }
+       .books{
+          margin-left: 1700px;
+          margin-top: -90px;
+       
+       }
+       .blue{
+          font-size: 70px;
+          margin-top: -250px;
+          margin-left: 100px;
+          
+       }
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+       
+ .foot {
+    font-size: 30px;
+    color: #ffb860;
+    padding: 15px;
+ 
+ 
+ }
+ 
+ .footer {
+    font-size: 18px;
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+    padding: 5px;
+ }
+ 
+ .a {
+    text-decoration: none;
+    color: #ffffff;
+    font-weight: bold;
+ }
+ 
+ .contact {
+    position: absolute;
+    left: 40%;
+    font-size: 30px;
+    color: #ffb860;
+    padding: 15px;
+ }
+ 
+ .main {
+    display: inline-flex;
+    background-color: rgb(29, 28, 28);
+    width: 100%;
+ 
+ }
+ 
+ .location {
+    position: absolute;
+    right: 1%;
+    font-size: 30px;
+    color: #ffb860;
+    padding: 15px;
+ }
+ 
+ .fa-solid {
+    color: white;
+ }
+ 
+ .fa-brands {
+    color: white;
+    font-size: 25px;
+ }
+ .fa-brands:hover{
+    color: #ffb860;
+    
+ }
+ 
+ .a:hover {
+    color: #ffb860;
+    text-decoration: underline;
+ }
+ .right{
+    color: rgb(255, 255, 255);
+    font-size: 15px;
+    margin-top: 70px;
+    
+    
+ }
+ .fa-fort-awesome{
+    font-size: larger;
+ }
+ .fa-fort-awesome:hover{
+ color: white;
+ 
+ }

@@ -1,1 +1,27 @@
+<<<<<<< HEAD
 /* rgb(245, 65, 0); */
+=======
+/*
+    1- blue   
+    2-rgb(38, 37, 37)
+*/
+
+
+.btn-primary{
+    border:1px solid blue;
+    height:40px;
+    width: 75px;
+     border-radius: 5px;
+     font-size: 20px;
+     color :blue;
+}
+.btn-secondary{
+    border:1px solid rgb(38, 37, 37);
+    height:40px;
+    width: 75px;
+     border-radius: 5px;
+     font-size: 20px;
+     color : rgb(38, 37, 37);
+
+}
+>>>>>>> 8c03c7ad5b31d19465d037dfa1edd73f71b9530f
