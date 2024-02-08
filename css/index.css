@@ -313,3 +313,92 @@ b{
    
    
 }
+.subheads:hover{
+    box-shadow: 1px 1px 2px 2px black ;
+}
+
+
+
+
+
+
+
+
+
+
+.foot {
+    font-size: 30px;
+    color: #ffb860;
+    padding: 15px;
+
+
+}
+
+.footer {
+    font-size: 18px;
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+    padding: 5px;
+}
+
+.a {
+    text-decoration: none;
+    color: #ffffff;
+    font-weight: bold;
+}
+
+.contact {
+    position: absolute;
+    left: 40%;
+    font-size: 30px;
+    color: #ffb860;
+    padding: 15px;
+}
+
+.moon {
+    display: inline-flex;
+    background-color:brown;
+    width: 1538px;
+    margin-left: -38px;
+
+}
+
+.location {
+    position: absolute;
+    right: 1%;
+    font-size: 30px;
+    color: #ffb860;
+    padding: 15px;
+}
+
+.fa-solid {
+    color: white;
+}
+
+.fa-brands {
+    color: white;
+    font-size: 25px;
+}
+.fa-brands:hover{
+    color: #ffb860;
+    
+}
+
+.a:hover {
+    color: #ffb860;
+    text-decoration: underline;
+}
+.right{
+    color: rgb(255, 255, 255);
+    font-size: 15px;
+    margin-top: 70px;
+    
+    
+}
+.fa-fort-awesome{
+    font-size: larger;
+}
+.fa-fort-awesome:hover{
+color: white;
+
+}
