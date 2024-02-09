@@ -71,3 +71,19 @@
     font-weight: 600;
     padding: 20px;
 }
+@media screen and (max-width:627px){
+  .shop{
+    display: flex;
+    flex-wrap: wrap;
+
+  }
+  .explo-btn{
+    display: inline-flex;
+    margin-right: 50px;
+  }
+  .card1{
+   height: 400px;
+    position: static;
+    
+  }
+}
