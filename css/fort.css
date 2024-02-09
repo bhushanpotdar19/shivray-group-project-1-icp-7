@@ -14,7 +14,7 @@ body {
   font-family: 'Bungee Shade', sans-serif;
 text-align: left;
 font-size: large;
-color: #808080;
+color: #373737;
 
 }
 .fort-headline{
@@ -36,7 +36,9 @@ color: #808080;
       .fort-title{
           font-size: 20px;
           margin-left: 10px;
+          padding-top: 15px;
           margin: 0;
+          font-family:cursive;
       }
       .fort-image{ 
         width:300px;
