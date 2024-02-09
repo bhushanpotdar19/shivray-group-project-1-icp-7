@@ -1,0 +1,404 @@
+.title{
+    /* background-color: orange ; */
+    height: 125px;
+    width: 1535px;
+    margin-top: 0px;
+    /* border-radius: 15px; */
+    display: flex;
+    margin-bottom: 0;
+    border-radius: 0px;
+    flex-wrap: wrap;
+    
+   
+     }
+ 
+.all{
+    border-radius: 30px;
+    border: 0px solid black;
+    margin-top:-200px;
+    position: fixed;
+    left: 1px;
+    background-color: beige;
+   
+    }
+
+.mudra{
+   position: fixed;
+   top: 0px;
+   right: 0px;
+   
+    
+}
+video{
+    margin-top: -29px;
+    width: 1000px;
+   background-color: black;
+   border-radius: 20px;
+}
+
+.btn{
+    border-radius: 200px;
+    color: chocolate;
+    flex-wrap: wrap;
+    display: flex;
+  
+   /* background-color: ; */
+   height: 25px;
+   width: 700px;
+   margin-left:400px;
+   margin-top: -10px;
+  border-radius: 50px;
+   border-bottom-left-radius: 5px;
+   border-bottom-right-radius: 5px;
+    }
+
+.h1{
+height: 70px;
+width: auto;
+letter-spacing: 4px;
+font-size: 50px;
+margin-left: 210px;
+margin-top: 20px;
+color:rgb(56, 3, 3);
+word-spacing: 5px;
+border: 1px solid none;
+ }
+
+
+h1{
+flex-wrap: wrap;
+height: 70px;
+width: auto;
+padding-left: 10px;
+padding-right: 10px;
+letter-spacing: 4px;
+font-size: 50px;
+margin-left: 240px;
+margin-top: 10px;
+color:rgb(56, 3, 3);
+word-spacing: 5px;
+border: 1px solid none;
+border: 1px solid darkgoldenrod;
+border-radius: 20px;
+box-shadow: 5px 5px 2px 1px darkgoldenrod;
+}
+h1:hover{
+border: 1px solid darkgoldenrod;
+border-radius: 20px;
+box-shadow: 5px 5px 2px 1px darkgoldenrod;
+}
+
+.main{
+    flex-wrap: wrap;
+    margin-top: 3px;
+    height: 128px;
+    width: 140px;
+    border: 2px solid black;
+    border-radius: 50%;
+    margin-left: 40px;
+    
+}
+button{
+    border: none;
+    flex-wrap: wrap;
+    height: 20px;
+    margin-top: 180px;
+    margin-left: 180px;
+    padding-left: 20px;
+    padding-right:20px;
+    border: none;
+    background-color: burlywood;
+    display: flex;
+    flex-direction: row;
+    justify-self: center;
+    border: 1px solid black;
+}
+
+.nav{
+    border: 1px solid black;
+    color: red;
+    flex-wrap: wrap;
+  margin-top: 0;
+  padding-right: 10px;
+  padding-left: 10px;
+  margin-left:30px;
+  padding-top: 0px;
+  /* border: 1px solid black; */
+  color: black;
+  background-color: white;
+  font-size: large;
+  height: 23px;
+  border-radius: 5px ;
+}
+.nav:hover{
+    box-shadow: 0px 0px 1px 1px black;
+    color: red;
+    background-color: lightyellow;
+}
+  
+
+b{
+   display: block;
+}
+.photo{
+    display: flex;
+    margin-left: 70px;
+    margin-top: 200px;
+}
+.sub{
+    flex-wrap: wrap;
+   margin-left:-60px;
+    height: auto;
+    width: 200px;
+}
+.text{
+    margin-right: 0px;
+    width: 1200px;
+    padding: 18px;
+    flex-wrap: wrap;
+    padding-top: 25px;
+    height: 420px;
+   
+   
+    font-size: large;
+   background-color: lightgray;
+    flex-wrap: wrap;
+    
+
+}
+.pic{
+   flex-wrap: wrap;
+    background-color:lightgray;
+    border: 2px solid gray;
+    width: 255px;
+    margin-left: 50px;
+    padding-right: 3    px;
+    height: auto;
+    padding-left: 5px;
+    
+}
+.bold{
+    
+    margin-left: -px;
+    padding-left: 50px;
+    padding-right: 60x;
+    padding-top: 4px;
+    padding-bottom: 5px;
+    background-color: lightsalmon;
+}
+.First_para{
+    padding-top: 20px;
+   
+
+}
+.Second{
+    margin-left:-20px;
+    height: 400px;
+}
+.font{
+    font-size:15px;
+    padding: 10px;
+    margin-left: 9px;
+}
+.subtitle{
+    color: chocolate;
+  background-color: rgb(255, 255, 255);
+    width: 70px;
+    height: 20px;
+   padding-left: 10px;
+   padding-right: 10px  ;
+    border: 1px solid black;
+    border-radius: 8px;
+}
+.subpoint{
+    color: chocolate;
+  background-color: rgb(255, 255, 255);
+    width: 270px;
+    padding-bottom: 5px;
+    padding-left: 10px;
+    height: 20px;
+   
+    border: 1px solid black;
+    border-radius: 8px;
+}
+
+.large{
+    color: chocolate;
+  background-color: rgb(255, 255, 255);
+    width: 350px;
+    padding-bottom: 5px;
+    padding-left: 10px;
+    height: 20px;
+   
+    border: 1px solid black;
+    border-radius: 8px;
+}
+
+.subtitle:hover{
+    box-shadow: 0px 0px 1px 1px black;
+    font-size: 18px;
+    background-color: lightyellow;
+}
+.big{
+    height: 720px;
+   
+}
+.big_1{
+    height: 500px;
+   
+}
+.big_2{
+    height: 1030px;
+    padding-bottom: 0px;
+}
+.side-img{
+    border:2px solid black;
+    margin-left: 8px;
+    padding-left: -1px;
+   
+}
+.intro{
+    margin-top: -80px;
+   
+    color: chocolate;
+  background-color: rgb(255, 255, 255);
+    width: 90px;
+    height: 20px;
+   padding-left: 10px;
+   padding-right: 10px  ;
+    border: 1px solid black;
+    border-radius: 8px;
+}
+.intro:hover{
+    box-shadow: 0px 0px 1px 1px black;
+    font-size: 18px;
+    background-color: lightyellow;
+}
+.content{
+   
+    
+    margin-top: 0px;
+        margin-right: 23px;
+        margin-left: -50px;
+        padding-left: 25px;
+        flex-wrap: wrap;
+        
+        height: 468px;
+       padding-top: 10px;
+       padding-bottom: 50px;
+       
+        font-size: large;
+        background-color:  rgb(220, 180, 135);
+        flex-wrap: wrap;
+        border:1px solid black;
+        
+    
+    
+    width: 120px;
+
+}
+.index{
+    position: fixed;
+}
+.subheads{
+    background-color: rgb(233, 188, 130);
+    font-size: 20px;
+    border: 1px solid black;
+   
+   border-radius: 5px;
+   color: darkred;
+   
+   text-align: center;
+   
+   
+   
+}
+.subheads:hover{
+    box-shadow: 1px 1px 2px 2px black ;
+}
+
+
+
+
+
+
+
+
+
+
+.foot {
+    font-size: 30px;
+    color: #ffb860;
+    padding: 15px;
+
+
+}
+
+.footer {
+    font-size: 18px;
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+    padding: 5px;
+}
+
+.a {
+    text-decoration: none;
+    color: #ffffff;
+    font-weight: bold;
+}
+
+.contact {
+    position: absolute;
+    left: 40%;
+    font-size: 30px;
+    color: #ffb860;
+    padding: 15px;
+}
+
+.moon {
+    display: inline-flex;
+    background-color:brown;
+    width: 1538px;
+    margin-left: -38px;
+
+}
+
+.location {
+    position: absolute;
+    right: 1%;
+    font-size: 30px;
+    color: #ffb860;
+    padding: 15px;
+}
+
+.fa-solid {
+    color: white;
+}
+
+.fa-brands {
+    color: white;
+    font-size: 25px;
+}
+.fa-brands:hover{
+    color: #ffb860;
+    
+}
+
+.a:hover {
+    color: #ffb860;
+    text-decoration: underline;
+}
+.right{
+    color: rgb(255, 255, 255);
+    font-size: 15px;
+    margin-top: 70px;
+    
+    
+}
+.fa-fort-awesome{
+    font-size: larger;
+}
+.fa-fort-awesome:hover{
+color: white;
+
+}
