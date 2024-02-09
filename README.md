@@ -4,13 +4,13 @@
 Welcome to Shivraya
 this is the chhatrapati shivaji maharaj page .it is made with HTML and css.
 ## It includes-
-- list bbook
+- list book
 - list events
 - list forts
 - list frames
 - list gallery
 - list shop
-- liststatue
+- list statue
 
 ## How to Contribute
 1.list Fork this repository to your GitHub account.
