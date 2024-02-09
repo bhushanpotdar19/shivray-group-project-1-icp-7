@@ -19,7 +19,7 @@ color: #373737;
 }
 .fort-headline{
   font-family: 'Vast Shadow', serif;
-  color: #FFBF00;
+  color: #e66731;
 }
       .fort-card{
     display: inline-block;
@@ -27,7 +27,7 @@ color: #373737;
     margin: 15px;
     padding: 15px;
     max-width: 500px;
-    box-shadow: 0 4px 8px rgba(10, 10, 10, 0.4);
+    box-shadow: 4px 4px 10px rgba(78, 77, 77, 0.4);
     background-color: bisque;
     border-radius: 8px;
     border: 1px solid #0f0808;
