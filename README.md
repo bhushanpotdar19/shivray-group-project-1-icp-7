@@ -1,7 +1,7 @@
-##SHIVRAYA
+##SHIVRAY
 
 
-Welcome to Shivraya
+Welcome to shivray
 this is the chhatrapati shivaji maharaj page .it is made with HTML and css.
 ## It includes-
 - list book
@@ -15,4 +15,4 @@ this is the chhatrapati shivaji maharaj page .it is made with HTML and css.
 ## How to Contribute
 1.list Fork this repository to your GitHub account.
 2.list Implement your changes, add new content, or fix any existing issues.
-3.list gupen a new pull request in this repository.
+3.Open a new pull request in this repository.
