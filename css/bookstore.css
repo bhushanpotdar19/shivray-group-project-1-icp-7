@@ -32,24 +32,29 @@
     background-color: blue;
  }
  
- 
+ .product-name{
+   font-size: 40px;
+ }
+ .product-info{
+   font-size: 20px;
+ }
  
     .product-card{
-     margin-top: 50px;
-     width: 400px;
-     height: 820px;
+     margin-top: 100px;
+     width: 500px;
+     height: 920px;
      border: 1px solid black;
      border-radius: 10px;
      display: inline-block;
      border: 1px solid black;
-     padding: 20px;
-     margin: 50px;
+     padding: 30px;
+     margin: 100px;
      box-shadow: 5px 5px 0 0px;
      justify-content: space-evenly;
      
     }
     .product-price{
-     font-size: 30px;
+     font-size: 40px;
     }
     .btn-buy{
     height: 40px;
@@ -61,8 +66,9 @@
     }
  
     .btn-buy:hover{
-       background-color: red;
-       border-radius: 30px;
+      background-color: red;
+      border-radius: 30px;
+     
     }
    
     .btn-buy1:hover{
@@ -103,6 +109,11 @@
           margin-left: 100px;
           
        }
+       @media screen {
+         
+       }   
+         
+       
   
  
  
