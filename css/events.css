@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .img
 {
     height:200px; 
@@ -15,6 +16,19 @@
 
 
 .f{
+=======
+img{
+    
+        flex-wrap: wrap;
+        margin-top: 3px;
+        height: 128px;
+        width: 140px;
+        border: 2px solid black;
+        border-radius: 50%;
+        margin-left: 40px;
+}
+.a{
+>>>>>>> acd4c1887c9662abc0d93a21dfb4744c480950c3
     display: inline-block;
     width: 470px;
     margin: 60px;
@@ -81,8 +95,8 @@ h1{
 
 header{
 
-    background-color: tomato;
-    height: 200px;
+    background-color: beige;
+    height: 150px;
     
 }
 
@@ -99,13 +113,20 @@ header{
 
 .q{
 
+
     
+     margin-top: 10px;
+    margin-left: 95px;
+    border: 1px solid black;
+    border-radius: 50px;
     
-    margin-left: 10px;
+    padding: 10px;
+    color:rgb(56, 3, 3);
+    background-color: rgb(209, 138, 46);
     
     
     font-family: 'Oswald', sans-serif;
-    font-size: 50px;
+    font-size: 45px;
     display: inline-block;
     position: absolute;
     top: 20px;
@@ -126,6 +147,32 @@ header{
     }
 }
 
+.btn{
+    margin-top:-25px;
+    margin-left: 450px;
+    border: none;
+    
+    }
+
+
+    .nav{
+        border: none;
+       background-color: beige;
+        color: chocolate;
+        flex-wrap: wrap;
+      margin-top: -20px;
+      padding-right: 10px;
+      padding-left: 10px;
+      margin-left:30px;
+      padding-top: 0px;
+      color: orange;
+     
+      
+     
+      font-size: large;
+      
+    }
+   
 
 
 .mark{
