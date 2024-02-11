@@ -1,3 +1,22 @@
+<<<<<<< HEAD
+.img
+{
+    height:200px; 
+    width:200px;
+}
+@media screen and (max-width:768px)
+ {
+    .img
+    {
+        height:100px; 
+       width:100px;
+    }
+}
+
+
+
+.f{
+=======
 img{
     
         flex-wrap: wrap;
@@ -9,12 +28,18 @@ img{
         margin-left: 40px;
 }
 .a{
+>>>>>>> acd4c1887c9662abc0d93a21dfb4744c480950c3
     display: inline-block;
-    width: 450px;
+    width: 470px;
     margin: 60px;
-    text-align: justify; 
+    text-align:left; 
     font-family: 'Quicksand', sans-serif;
     
+    text-align: justify;
+    position: absolute;
+    left:700px;
+    text-decoration: none;
+    color:#000000;
     
 
 }
@@ -25,15 +50,17 @@ img{
     border: solid 3px aqua ;
     border-radius: 5px;
     box-shadow:5px 5px 5px 5px rgb(85, 81, 81) ;
-    margin-left: 20px;
+    /* margin-right:  200px; */
+   
     display: inline-block;
+   }
 
-}
 
 .b:hover{
 
     border: blueviolet 5px solid;
     transition: 0.5s;
+    
 }
 
 
@@ -48,22 +75,42 @@ h1{
     
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
+
+
 .c{
     height: 250px;
 }
+
+
 .d{
     margin-left: 200px;
 }
+
+
 .e{
     height: 330px;
     width: 600px;
 }
+
+
 header{
 
     background-color: beige;
     height: 150px;
     
 }
+
+@media screen and (max-width:768px)
+ {
+    header
+    {
+       
+    height: 100px;
+    }
+}
+
+
+
 .q{
 
 
@@ -90,8 +137,14 @@ header{
 
 
 }
-body{
-    background-color: bisque;
+
+@media screen and (max-width:768px)
+ {
+.q
+    {
+       
+        font-size: 20px;
+    }
 }
 
 .btn{
@@ -122,3 +175,44 @@ body{
    
 
 
+.mark{
+
+    margin-right: 600px;
+    display: inline-block;
+    text-align: justify;
+    position: relative;
+    color: #000000;
+    transition: 10s;
+     
+
+}
+
+.l{
+    margin-right: 600px;
+    display: inline-block;
+    text-align: justify;
+    position: absolute;
+    left:700px;
+    top: 630px;
+    
+     
+}
+
+
+.m{
+    margin-right: 600px;
+    display: inline-block;
+    position: absolute;
+    left:700px;
+    
+     
+}
+
+.n{
+    margin-right: 600px;
+    display: inline-block;
+    position: absolute;
+    left:700px;
+    
+     
+}
