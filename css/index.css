@@ -1,5 +1,5 @@
 .title{
-    background-color:beige ;
+    background-color:black ;
     height:155px;
     width: 1533px;
     margin-left: -7px;
@@ -30,17 +30,12 @@
    
     
 }
-video{
-    margin-top: -29px;
-    width: 1000px;
-   background-color: black;
-   border-radius: 20px;
-}
+
 
 .btn{
     
     border-radius: 200px;
-    color: chocolate;
+    
     flex-wrap: wrap;
     display: flex;
   
@@ -119,8 +114,8 @@ button{
 .nav{
     /* border: 5px; */
    border: none;
-   background-color: beige;
-
+   background-color: black;
+    color: WHI;
     flex-wrap: wrap;
   margin-top: -20px;
   padding-right: 10px;
