@@ -152,5 +152,61 @@ span{
     text-align: justify;
     margin-right: 40px;
 }
+@media screen and (max-width:821px){
+    .img3{
+        margin: 0;
+        height: 300px;
+        width: 100%;
+    }
+    .para1{
+        justify-content: center;
+        margin: 0;
+        font-size: 20px;
+        width: 100%;
+    }
+    .img4{margin: 0;
+        height: 300px;
+        width: 100%;
+        display: flex;
+        
+    }
+    .img5{
+        margin: 0;
+        height: 300px;
+        width: 100%;
+    }
+    .img6{
+        margin: 0;
+        height: 300px;
+        width: 100%;
+    }
+    .para2{
+        display: block;
+    }
+    .p2{margin: 0;
+        margin-top: 10px;
+        font-size: 20px;
+        width: 100%;
+      
+    }
+    .para3{
+    display: block;
+    }
+    .p3{margin: 0;
+        font-size: 20px;
+        width: 100%;
+    }
+    .para4{
+    display: block;
+    }
+    .p4{
+        margin: 0;
+        font-size: 20px;
+        width: 100%;
+    }
+    video{
+        margin-top: -50px;
+    }
+}
 
 
