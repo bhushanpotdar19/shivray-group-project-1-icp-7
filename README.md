@@ -1,8 +1,12 @@
 ##SHIVRAY
 
 
-Welcome to shivray
-this is the chhatrapati shivaji maharaj page .it is made with HTML and css.
+Welcome to Shivray
+This is the Chhatrapati Shivaji Maharaj page .it is made with HTML and css.
+ ![shivaji maharaj home page screenshot]
+ ( ../images/home page.png)
+
+
 ## It includes-
 - list book
 - list events
