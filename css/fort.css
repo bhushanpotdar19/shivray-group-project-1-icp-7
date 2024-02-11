@@ -1,10 +1,8 @@
-<<<<<<< HEAD
+
 /* @import url('https://fonts.googleapis.com/css2?family=Bungee+Shade&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Vast+Shadow&display=swap'); */
-=======
 
->>>>>>> 461b5002770b0daedd32ecc8fd1b6ac72634c552
-body {
+.body {
   text-align:center;
   background-color:white;
   margin: 0;
