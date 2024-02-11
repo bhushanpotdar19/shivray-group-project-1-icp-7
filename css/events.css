@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+/* <<<<<<< HEAD
 .img
 {
     height:200px; 
@@ -26,13 +26,13 @@ img{
         border: 2px solid black;
         border-radius: 50%;
         margin-left: 40px;
-}
+} */
 .a{
->>>>>>> acd4c1887c9662abc0d93a21dfb4744c480950c3
+
     display: inline-block;
     width: 470px;
-    margin: 60px;
-    text-align:left; 
+    margin-left: -640px;
+   
     font-family: 'Quicksand', sans-serif;
     
     text-align: justify;
@@ -177,12 +177,13 @@ header{
 
 .mark{
 
-    margin-right: 600px;
+    margin-right: 800px;
     display: inline-block;
     text-align: justify;
     position: relative;
     color: #000000;
-    transition: 10s;
+    transition: 0.5s;
+   
      
 
 }
@@ -215,4 +216,7 @@ header{
     left:700px;
     
      
+}
+.fa{
+    
 }
