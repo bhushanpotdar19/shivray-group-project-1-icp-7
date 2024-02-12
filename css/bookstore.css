@@ -1,36 +1,214 @@
-.h{
-    text-align: center;
+.navbar{
+    height: 70px; 
+    width: 900px;
+    border: 1px solid width;
+    margin-left: 300px;
+    font-size: 20px;
+    color: white;
+    background-color: red;
+    border-radius: 5px;
+    box-shadow: 2px 2px 0 0 black;
+   
+ }
+ 
+ 
+ .c1{
+     font-size: 50px;
+     margin-left: 30px;
+ }
+ 
+ .word{
+    width: 1000px;
+    border:1px solid rgb(67, 59, 59);
     font-size: 50px;
-    font-weight: 900;
-    color: rgb(245, 65, 0);
-}
-.p1{justify-content: center;
-    display: flex;
-    border: 5px black solid;
-    
-}
-h1{
-    margin-top: 200px;
-    margin-left: 50px;
-}
-.nav-bar {
-    height: 100px;
-    width: 100%;
-    background-color: #fff;
-    box-shadow: 2px #a3a3a3;
-    position: fixed;
-    top: 0px;
-    left: 0px;
-    right: 0px;
-    box-shadow: 0 -5px 90px 5px #a3a3a3;
+    background-color: red;
+    color: white;
+   margin-top: 30px;
+   border-radius: 20px;
+   margin-left: 650px;
+   padding-left: 50px;
+ }
+ .word:hover{
+    background-color: blue;
+ }
+ 
+ .product-name{
+   font-size: 40px;
+ }
+ .product-info{
+   font-size: 20px;
+ }
+ 
+    .product-card{
+     margin-top: 100px;
+     width: 500px;
+     height: 920px;
+     border: 1px solid black;
+     border-radius: 10px;
+     display: inline-block;
+     border: 1px solid black;
+     padding: 30px;
+     margin: 100px;
+     box-shadow: 5px 5px 0 0px;
+     justify-content: space-evenly;
+     text-align: center;
+     
+    }
 
-}
-.menu {
+    .product-card:hover{
+      margin-top: -1px;
+      transition: 0.5s;
+      
+    }
+
+    .product-price{
+     font-size: 40px;
+    }
+    .btn-buy{
+    height: 40px;
+    width: 300px;
+    margin-left: 50px;
+    background-color: black;
+    color: azure;
+    font-size: 30px;
+    }
+ 
+    .btn-buy:hover{
+      background-color: red;
+      border-radius: 30px;
+     
+    }
+   
+    .btn-buy1:hover{
+       background-color: red;
+       border-radius: 30px;
+    }
+   
+    .btn-buy1{
+       height: 40px;
+       width: 300px;
+       margin-left: 50px;
+       background-color:black;
+       color: azure;
+       font-size: 30px;
+       margin-top: 50px;
+       }
+       .btn-more{
+          height: 70px;
+          width: 600px;
+          font-size: 50px;
+          color: antiquewhite;
+          background-color:red;
+          border: 1px solid black;
+          border-radius: 20px;
+          margin-left: 800px;
+       }
+       .btn-more:hover{
+          background-color:blue;
+       }
+       .books{
+          margin-left: 1700px;
+          margin-top: -90px;
+       
+       }
+       .blue{
+          font-size: 100px;
+          margin-top: 50px;
+          margin-left: 100px;
+   
+       }
+      
+      @media screen and (min-width:650px) and (max-width:1044px){
+        .word{
+           background-color: aqua;
+           margin-left: 10px;
+        }
+        .btn-more{
+           margin-left: 10px;
+        }
+     }
+      
+      
+ 
+ 
+ 
+ 
+ 
+ 
+       
+ .foot {
+    font-size: 30px;
+    color: #ffb860;
+    padding: 15px;
+ 
+ 
+ }
+ 
+ .footer {
+    font-size: 18px;
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+    padding: 5px;
+ }
+ 
+ .a {
+    text-decoration: none;
+    color: #ffffff;
+    font-weight: bold;
+ }
+ 
+ .contact {
     position: absolute;
-    right: 100px;
-    top: 10px;
-    display: flex;
-    justify-content: space-between;
-    margin: 30px;
-    margin-right: 5px;
-}
+    left: 40%;
+    font-size: 30px;
+    color: #ffb860;
+    padding: 15px;
+ }
+ 
+ .main {
+    display: inline-flex;
+    background-color: rgb(29, 28, 28);
+    width: 100%;
+ 
+ }
+ 
+ .location {
+    position: absolute;
+    right: 1%;
+    font-size: 30px;
+    color: #ffb860;
+    padding: 15px;
+ }
+ 
+ .fa-solid {
+    color: white;
+ }
+ 
+ .fa-brands {
+    color: white;
+    font-size: 25px;
+ }
+ .fa-brands:hover{
+    color: #ffb860;
+    
+ }
+ 
+ .a:hover {
+    color: #ffb860;
+    text-decoration: underline;
+ }
+ .right{
+    color: rgb(255, 255, 255);
+    font-size: 15px;
+    margin-top: 70px;
+    
+    
+ }
+ .fa-fort-awesome{
+    font-size: larger;
+ }
+ .fa-fort-awesome:hover{
+ color: white;
+ 
+ }
+ 
