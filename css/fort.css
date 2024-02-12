@@ -11,10 +11,11 @@ padding-bottom: 50px;
 background-size: cover;
 background-position: center;
 background-repeat: no-repeat;
-font-family: 'Bungee Shade', sans-serif;
+font-family: 'Caprasimo', serif;
+font-family: 'Vast Shadow', serif;
 text-align: center;
 font-size: large;
-color:#FC6A03;
+color:#fba05e;
 margin-bottom: 30px;
 
 }
@@ -81,4 +82,34 @@ font-family: 'Vast Shadow', serif;
     .btn-fort:hover{
       transform:scale(1.1);
     }
-    
+   
+    @media screen and (min-width:601px) and (max-width:931px){
+      .fort-background{
+        margin:7px;
+      }
+      .fort-headline{
+          font-size: 20px;
+      }
+      .fort-card{
+        width: 200px;
+      }
+      .fort-image{
+        width:150px ;
+        height: 100px;
+      }
+    }
+    @media screen and (min-width:930px) and (max-width:1200px){
+      .fort-background{
+        margin:7px;
+      }
+      .fort-headline{
+          font-size: 20px;
+      }
+      .fort-card{
+        width: 200px;
+      }
+      .fort-image{
+        width:200px;
+        height:150px;
+      }
+    }
