@@ -1,5 +1,5 @@
 .header{
-    margin-top:-10px;
+    margin-top: -10px;
     padding: 0;
     color: rgb(233, 99, 22);
     background-color: rgb(37, 35, 35);
@@ -82,7 +82,6 @@ p{
 
 video{
     margin-top: 120px;
-    box-shadow:  0px 7px 20px 2px black ;
     width: 100%;
 }
 
@@ -141,7 +140,7 @@ span{
     width: 600px;
     height: 690px;
     border-radius: 40px;
-    box-shadow: 4px 4px 7px 5px rgba(218, 161, 4, 0.863);
+    box-shadow: 4px 4px 7px 5px rgba(196, 79, 11, 0.863);
     float: left;
     margin-left: 30px;
     
@@ -152,6 +151,87 @@ span{
     font-size: 20px;
     text-align: justify;
     margin-right: 40px;
+}
+@media screen and (max-width:821px){
+    .img3{
+        margin: 0;
+        height: 300px;
+        width: 100%;
+    }
+    .para1{
+        justify-content: center;
+        margin: 0;
+        font-size: 20px;
+        width: 100%;
+        margin-right: 8px;
+    }
+    .img4{margin: 0;
+        height: 300px;
+        width: 100%;
+        display: flex;
+        margin-right: 8px;
+        
+    }
+    .img5{
+        margin: 0;
+        height: 300px;
+        width: 100%;
+        margin-right: 8px;
+    }
+    .img6{
+        margin: 0;
+        height: 300px;
+        width: 100%;
+        margin-right: 8px;
+    }
+    .para2{
+        display: block;
+    }
+    .p2{margin: 0;
+        margin-top: 10px;
+        font-size: 20px;
+        width: 100%;
+        margin-right: 8px;
+      
+    }
+    .para3{
+    display: block;
+    }
+    .p3{margin: 0;
+        font-size: 20px;
+        width: 100%;
+        margin-right: 8px;
+    }
+    .para4{
+    display: block;
+    }
+    .p4{
+        margin: 0;
+        font-size: 20px;
+        width: 100%;
+        margin-right: 8px;
+    }
+    video{
+        margin-top: -20px;
+    }
+    .btn{
+        visibility: hidden;
+
+    }
+    
+}
+@media screen and (max-width:627px){
+    .btn{
+        visibility: hidden;
+    }
+    .header{
+        font-size: 40px;
+    }
+    .headmain{
+        height: 90px;
+        width: 90px;
+    }
+   
 }
 
 

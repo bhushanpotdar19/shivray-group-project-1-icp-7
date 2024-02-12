@@ -1,9 +1,22 @@
-
-.img
+.f
 {
-    height:200px; 
-    width:200px;
+        flex-wrap: wrap;
+        margin-top: 3px;
+        height: 128px;
+        width: 140px;
+        border: 2px solid black;
+        border-radius: 50%;
+        margin-left: 40px;
+} 
+
+img{
+    
+    flex-wrap: wrap;
+  border:solid black 2px;
+    border-radius: 50%;
+    margin-left: 40px;
 }
+
 @media screen and (max-width:768px)
  {
     .img
@@ -13,39 +26,12 @@
     }
 }
 
+.a{
 
-
-
-img{
-    
-    flex-wrap: wrap;
-    margin-top: 3px;
-    height: 128px;
-    width: 140px;
-    border: 2px solid black;
-    border-radius: 50%;
-    margin-left: 40px;
-}
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-.f
-{
     display: inline-block;
     width: 470px;
-    margin: 60px;
-    text-align:left; 
+    margin-left: -640px;
+   
     font-family: 'Quicksand', sans-serif;
     
     text-align: justify;
@@ -56,6 +42,20 @@ img{
     
 
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 .b{
     height: 350px;
@@ -190,12 +190,13 @@ header{
 
 .mark{
 
-    margin-right: 600px;
+    margin-right: 800px;
     display: inline-block;
     text-align: justify;
     position: relative;
     color: #000000;
-    transition: 10s;
+    transition: 0.5s;
+   
      
 
 }
