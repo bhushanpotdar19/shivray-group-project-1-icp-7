@@ -67,13 +67,34 @@ img{
     transition: 0.5s;
     
 }
+.events{
+color: tomato;
+ margin-left: 330px;
+ font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 50px;
+}
+
+@media screen and (max-width:768px) {
+    .events{
+
+        font-size: 20px;
+        margin-left: 50px;
+    }
+    
+}
+@media screen and (max-width:768px){
+
+    .u{
+        font-size: 15px;
+        margin-left: auto;
+
+    }
+}
 
 
 
 
-
-
-h1{
+.u{
     color: brown;
     align-content: center;
     margin-left:  400px ;
