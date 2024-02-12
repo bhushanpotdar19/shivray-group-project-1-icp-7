@@ -1,9 +1,13 @@
-/* <<<<<<< HEAD
-.img
-{
-    height:200px; 
-    width:200px;
+
+
+img{
+    
+    flex-wrap: wrap;
+  border:solid black 2px;
+    border-radius: 50%;
+    margin-left: 40px;
 }
+
 @media screen and (max-width:768px)
  {
     .img
@@ -13,36 +17,42 @@
     }
 }
 
-
-
 .f{
-=======
-img{
-    
-        flex-wrap: wrap;
-        margin-top: 3px;
-        height: 128px;
-        width: 140px;
-        border: 2px solid black;
-        border-radius: 50%;
-        margin-left: 40px;
-} */
-.a{
 
     display: inline-block;
     width: 470px;
-    margin-left: -640px;
-   
-    font-family: 'Quicksand', sans-serif;
     
+   
     text-align: justify;
-    position: absolute;
-    left:700px;
+    
+    
+    
     text-decoration: none;
     color:#000000;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     
 
 }
+@media screen and (max-width:768px){
+
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 .b{
     height: 350px;
@@ -50,9 +60,10 @@ img{
     border: solid 3px aqua ;
     border-radius: 5px;
     box-shadow:5px 5px 5px 5px rgb(85, 81, 81) ;
-    /* margin-right:  200px; */
+    margin-right:  200px
    
     display: inline-block;
+    margin-left: 50px;
    }
 
 
@@ -62,13 +73,35 @@ img{
     transition: 0.5s;
     
 }
+.events{
+color: tomato;
+ margin-left: 330px;
+ font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 50px;
+}
+
+@media screen and (max-width:768px) {
+    .events{
+
+        font-size: 20px;
+        margin-left: 50px;
+    }
+    
+}
+@media screen and (max-width:768px){
+
+    .u{
+        font-size: 15px;
+     position: absolute;
+     left: 1px;
+
+    }
+}
 
 
 
 
-
-
-h1{
+.u{
     color: brown;
     align-content: center;
     margin-left:  400px ;
@@ -177,7 +210,7 @@ header{
 
 .mark{
 
-    margin-right: 800px;
+    margin-right: 600px;
     display: inline-block;
     text-align: justify;
     position: relative;
@@ -200,8 +233,8 @@ header{
 }
 
 
-.m{
-    margin-right: 600px;
+.k{
+    margin-right: 700px;
     display: inline-block;
     position: absolute;
     left:700px;
@@ -210,10 +243,11 @@ header{
 }
 
 .n{
-    margin-right: 600px;
+    margin-right: 700px;
     display: inline-block;
     position: absolute;
     left:700px;
+    margin-left: 200px;
     
      
 }
