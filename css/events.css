@@ -33,6 +33,12 @@ img{
     
 
 }
+@media screen and (max-width:768px){
+
+
+
+    
+}
 
 
 
@@ -86,7 +92,8 @@ color: tomato;
 
     .u{
         font-size: 15px;
-        margin-left: auto;
+     position: absolute;
+     left: 1px;
 
     }
 }
