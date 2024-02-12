@@ -163,22 +163,26 @@ span{
         margin: 0;
         font-size: 20px;
         width: 100%;
+        margin-right: 8px;
     }
     .img4{margin: 0;
         height: 300px;
         width: 100%;
         display: flex;
+        margin-right: 8px;
         
     }
     .img5{
         margin: 0;
         height: 300px;
         width: 100%;
+        margin-right: 8px;
     }
     .img6{
         margin: 0;
         height: 300px;
         width: 100%;
+        margin-right: 8px;
     }
     .para2{
         display: block;
@@ -187,6 +191,7 @@ span{
         margin-top: 10px;
         font-size: 20px;
         width: 100%;
+        margin-right: 8px;
       
     }
     .para3{
@@ -195,6 +200,7 @@ span{
     .p3{margin: 0;
         font-size: 20px;
         width: 100%;
+        margin-right: 8px;
     }
     .para4{
     display: block;
@@ -203,11 +209,29 @@ span{
         margin: 0;
         font-size: 20px;
         width: 100%;
+        margin-right: 8px;
     }
     video{
-        margin-top: -50px;
+        margin-top: -20px;
+    }
+    .btn{
+        visibility: hidden;
+
     }
     
+}
+@media screen and (max-width:627px){
+    .btn{
+        visibility: hidden;
+    }
+    .header{
+        font-size: 40px;
+    }
+    .headmain{
+        height: 90px;
+        width: 90px;
+    }
+   
 }
 
 
