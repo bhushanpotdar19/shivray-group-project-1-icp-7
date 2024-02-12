@@ -1,13 +1,4 @@
-.f
-{
-        flex-wrap: wrap;
-        margin-top: 3px;
-        height: 128px;
-        width: 140px;
-        border: 2px solid black;
-        border-radius: 50%;
-        margin-left: 40px;
-} 
+
 
 img{
     
@@ -26,19 +17,19 @@ img{
     }
 }
 
-.a{
+.f{
 
     display: inline-block;
     width: 470px;
-    margin-left: -640px;
-   
-    font-family: 'Quicksand', sans-serif;
     
+   
     text-align: justify;
-    position: absolute;
-    left:700px;
+    
+    
+    
     text-decoration: none;
     color:#000000;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     
 
 }
@@ -63,9 +54,10 @@ img{
     border: solid 3px aqua ;
     border-radius: 5px;
     box-shadow:5px 5px 5px 5px rgb(85, 81, 81) ;
-    /* margin-right:  200px; */
+    margin-right:  200px
    
     display: inline-block;
+    margin-left: 50px;
    }
 
 
@@ -190,7 +182,7 @@ header{
 
 .mark{
 
-    margin-right: 800px;
+    margin-right: 600px;
     display: inline-block;
     text-align: justify;
     position: relative;
@@ -213,8 +205,8 @@ header{
 }
 
 
-.m{
-    margin-right: 600px;
+.k{
+    margin-right: 700px;
     display: inline-block;
     position: absolute;
     left:700px;
@@ -223,10 +215,11 @@ header{
 }
 
 .n{
-    margin-right: 600px;
+    margin-right: 700px;
     display: inline-block;
     position: absolute;
     left:700px;
+    margin-left: 200px;
     
      
 }
