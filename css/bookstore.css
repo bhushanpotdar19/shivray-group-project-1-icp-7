@@ -52,60 +52,50 @@
      box-shadow: 5px 5px 0 0px;
      justify-content: space-evenly;
      text-align: center;
+
      
     }
-
-    .product-card:hover{
-      margin-top: -1px;
-      transition: 0.5s;
-      
-    }
+.product-card:hover{
+   margin-top: -1px;
+   transition: 0.5s;
+}
 
     .product-price{
      font-size: 40px;
     }
     .btn-buy{
-    height: 40px;
-    width: 300px;
-    margin-left: 50px;
-    background-color: black;
-    color: azure;
-    font-size: 30px;
+      height: 60px;
+      width: 200px;
+      background-color: black;
+      font-size: 20px;
+      border: 2px solid rgb(0, 0, 0);
+      border-radius: 30px;
+      padding: 0 15px;
+      color:white;
     }
  
     .btn-buy:hover{
-      background-color: red;
-      border-radius: 30px;
+      transform: scale(1.1);
+    transition: 0.5s;
      
     }
    
     .btn-buy1:hover{
-       background-color: red;
-       border-radius: 30px;
+      transform: scale(1.1);
+      transition: 0.5s;
     }
    
     .btn-buy1{
-       height: 40px;
-       width: 300px;
-       margin-left: 50px;
-       background-color:black;
-       color: azure;
-       font-size: 30px;
-       margin-top: 50px;
+      height: 60px;
+      width: 200px;
+      background-color: black;
+      font-size: 20px;
+      border: 2px solid rgb(0, 0, 0);
+      border-radius: 30px;
+      padding: 0 15px;
+      color:white;
        }
-       .btn-more{
-          height: 70px;
-          width: 600px;
-          font-size: 50px;
-          color: antiquewhite;
-          background-color:red;
-          border: 1px solid black;
-          border-radius: 20px;
-          margin-left: 800px;
-       }
-       .btn-more:hover{
-          background-color:blue;
-       }
+     
        .books{
           margin-left: 1700px;
           margin-top: -90px;
@@ -123,9 +113,10 @@
            background-color: aqua;
            margin-left: 10px;
         }
-        .btn-more{
-           margin-left: 10px;
-        }
+      .product-card:hover{
+         margin-top: -1px;
+         transition: 0.5s;
+      }
      }
       
       
