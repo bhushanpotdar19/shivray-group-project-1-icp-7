@@ -54,6 +54,13 @@
      text-align: center;
      
     }
+
+    .product-card:hover{
+      margin-top: -1px;
+      transition: 0.5s;
+      
+    }
+
     .product-price{
      font-size: 40px;
     }
@@ -106,13 +113,22 @@
        }
        .blue{
           font-size: 100px;
-          margin-top: -250px;
+          margin-top: 50px;
           margin-left: 100px;
    
        }
- 
- 
- 
+      
+      @media screen and (min-width:650px) and (max-width:1044px){
+        .word{
+           background-color: aqua;
+           margin-left: 10px;
+        }
+        .btn-more{
+           margin-left: 10px;
+        }
+     }
+      
+      
  
  
  
