@@ -4,8 +4,7 @@
 Welcome to Shivray
 This is the Chhatrapati Shivaji Maharaj page .it is made with HTML and css.
 
- ![shivaji maharaj home page screenshot]
- ./../images/read.png
+ [shivaji maharaj home page screenshot]
 
 ![shivray](<Screenshot (109).png>)
 
