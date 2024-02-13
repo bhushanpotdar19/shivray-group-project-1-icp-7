@@ -21,7 +21,7 @@ img{
 
     display: inline-block;
     width: 470px;
-    font-size: 13px;
+    font-size: 18px;
    
    
     text-align: justify;
@@ -246,7 +246,7 @@ header{
        
         width:200px;
         display: inline-block;
-        position: relative;
+        
         transition: 0.5s;
         text-align: justify;
     }
@@ -282,4 +282,3 @@ header{
     
      
 }
-
